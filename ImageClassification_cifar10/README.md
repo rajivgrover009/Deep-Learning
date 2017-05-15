@@ -1,1 +1,1 @@
-## Image classification(CIFAR1- Using TensorFlow Library in Python ##
+## Image classification(CIFAR10) - Using TensorFlow Library in Python ##
